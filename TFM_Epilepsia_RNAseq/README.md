@@ -16,3 +16,8 @@ El análisis identificó una firma clave de **10 genes biomarcadores** capaces d
 
 ## Documentación
 La justificación clínica, revisión de la literatura, metodología detallada y discusión biológica de los resultados se encuentran en la memoria completa del proyecto: TFM_FINAL.pdf
+
+## ⚖️ Licencia y Derechos de los Datos
+- **Código y Memoria:** El código desarrollado en R para este pipeline y la memoria del TFM son de mi autoría. El código se distribuye bajo la licencia MIT.
+- **Datos Originales:** Los datos crudos analizados en este proyecto son de acceso público y pertenecen al estudio original de: Dwivedi AK, Mahesh A, Sanfeliu A, Larkin J, Siwicki RA, Sweeney KJ, et al. High-resolution multimodal profiling of human epileptic brain activity via explanted depth electrodes. JCI Insight. 2024 [citado 31 marzo 2026]; 10(1):e184518. Disponible en: https://pmc.ncbi.nlm.nih.gov/articles/PMC11721296/
+Los datos fueron obtenidos a través de la base de datos Gene Expression Omnibus (GEO) con el identificador **GSE268714**. Este repositorio no redistribuye los datos originales, únicamente contiene el código necesario para reproducir el análisis secundario.
