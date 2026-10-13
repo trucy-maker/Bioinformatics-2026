@@ -1,6 +1,6 @@
 # Caracterización de la desregulación transcriptómica en la epilepsia farmacorresistente a partir de muestras de sEEG
 
-# Este proyecto conforma el análisis de mi TFM en Bioinformática. El objetivo principal es caracterizar el perfil transcriptómico de la zona epileptogénica (Onset) frente a tejido cerebral sano (Cold) en pacientes con epilepsia farmacorresistente (EFR) a partir de muestras procedentes de sEEG.
+Este proyecto conforma el análisis de mi TFM en Bioinformática. El objetivo principal es caracterizar el perfil transcriptómico de la zona epileptogénica (Onset) frente a tejido cerebral sano (Cold) en pacientes con epilepsia farmacorresistente (EFR) a partir de muestras procedentes de sEEG.
 Los datos proceden de un análisis secundario del dataset **GEO GSE268714** (Dwivedi et al.)
 
 ## Metodología
